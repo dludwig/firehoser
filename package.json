@@ -25,13 +25,13 @@
   "dependencies": {
     "ajv": "^6.12.6",
     "async": "^3.2.0",
-    "aws-sdk": "^2.801.0",
-    "lodash": "^4.17.20",
+    "aws-sdk": "^2.857.0",
+    "lodash": "^4.17.21",
     "moment": "^2.29.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^8.2.1",
+    "mocha": "^8.3.0",
     "mockery": "^2.1.0"
   }
 }
